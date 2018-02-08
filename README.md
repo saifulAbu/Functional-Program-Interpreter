@@ -3,3 +3,5 @@ Interpreter for a functional programming language X written using a functional p
 
 ## How to Run
 Load the files in [Dr.Racket](https://racket-lang.org/download/) and click run.
+
+Read more from my blog post [blog-post](http://www.saifulabu.me/2017/12/writing-and-interpreter-for-x-in-racket.html)
